@@ -1,3 +1,3 @@
 # Chess
 
-Membre de l'équipe : Edouard NGUON et Pierre Masquilier
+Membres de l'équipe : Edouard NGUON et Pierre Masquilier
